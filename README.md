@@ -1,4 +1,4 @@
-<h1>SHOP.COM Clone-[https://www.shop.com//]</h1>
+
 <img src="https://miro.medium.com/max/700/1*7yc55TfM7U39PIEdD3DGQQ.jpeg" alt=""/>
 <img src="https://miro.medium.com/max/700/1*RzLWLX_AT8Y7AI_9Q-Aosg.jpeg" alt=""></img>
 <img src="https://miro.medium.com/max/700/1*2dFfQ6JMoYsQqmDwrKECkA.jpeg" alt=""></img>
@@ -12,4 +12,4 @@
 
 
 
-made by shina rastakar
+MADE BY SHINA RASTAKAR
